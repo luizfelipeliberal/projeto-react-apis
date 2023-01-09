@@ -19,6 +19,19 @@ Os conteúdos principais  a serem estudados são:
 - React Context
 - Axios
 
+### **Características**
+-Ferramentas usadas : 
+	- React
+	- React Router
+	- Styled-components
+	- React Context
+	- Axios
+-Link do surge : 
+	- " naive-doctor.surge.sh "
+
+
+
+
 ### **Requisitos**
 - **Gerais:**
 	- [ ] O site deve ter 3 páginas: Home, Pokedex e Detalhes;
