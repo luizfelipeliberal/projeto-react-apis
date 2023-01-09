@@ -20,14 +20,14 @@ Os conteúdos principais  a serem estudados são:
 - Axios
 
 ### **Características**
--Ferramentas usadas : 
-	- React
-	- React Router
-	- Styled-components
-	- React Context
-	- Axios
--Link do surge : 
-	- " naive-doctor.surge.sh "
+- ** Ferramentas usadas ** : 
+	- [ ] React
+	- [ ] React Router
+	- [ ] Styled-components
+	- [ ] React Context
+	- [ ] Axios
+### Link do surge : 
+	- [ ] " naive-doctor.surge.sh "
 
 
 
